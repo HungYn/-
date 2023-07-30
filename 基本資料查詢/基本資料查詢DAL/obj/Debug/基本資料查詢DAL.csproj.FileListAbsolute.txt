@@ -1,0 +1,9 @@
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\obj\Debug\基本資料查詢DAL.csproj.AssemblyReference.cache
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\obj\Debug\基本資料查詢DAL.csproj.CoreCompileInputs.cache
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\bin\Debug\基本資料查詢DAL.dll
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\bin\Debug\基本資料查詢DAL.pdb
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\obj\Debug\基本資料查詢DAL.dll
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\obj\Debug\基本資料查詢DAL.pdb
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\bin\Debug\基本資料查詢Models.dll
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\bin\Debug\基本資料查詢Models.pdb
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\基本資料查詢\基本資料查詢DAL\obj\Debug\基本資料查詢DAL.csproj.CopyComplete
